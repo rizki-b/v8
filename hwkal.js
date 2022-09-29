@@ -26,7 +26,7 @@ global.botname = 'HAMZ YANG TERSAKITI' //ubah jadi nama bot mu, note tanda ' gau
 global.footer = 'HAMZ GAGAL KULL' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285893481599'] ['6285893481599']
+global.owner = ['6285893481599']
 global.premium = ['6285893481599']
 global.packname = 'hmz'
 global.ownerr = ['hmz ofc']
