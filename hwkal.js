@@ -12,8 +12,8 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857'
-global.ig = 'https://www.instagram.com/hikal_857/?hl=id'
+global.youtube = 'https://youtube.com/c/HAMZXPRESET'
+global.ig = 'https://www.instagram.com/mhmdryhn.1'
 global.mygc = 'wa.me/6285714170944'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
 global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
@@ -22,8 +22,8 @@ global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'hmzz ofc' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HAMZ YANG TERSAKITI' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HAMZ GAGAL KULL' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'TEPI HITAM YANG TERSAKITI' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'TEPI HITAM' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
 global.owner = ['6285893481599']
