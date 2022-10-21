@@ -22,8 +22,8 @@ global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'hmzz ofc' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'TEPI HITAM YANG TERSAKITI' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'TEPI HITAM' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Luwak Store' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Luwak Store' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
 global.owner = ['6285893481599']
